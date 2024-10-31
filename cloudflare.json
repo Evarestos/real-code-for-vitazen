@@ -1,0 +1,15 @@
+{
+  "build": {
+    "command": "npm run build",
+    "output": "build",
+    "environment": {
+      "REACT_APP_API_URL": "https://your-backend-url.appspot.com"
+    }
+  },
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
