@@ -1,0 +1,18 @@
+{
+  "welcome": "Welcome, {{name}}!",
+  "aiAssistant": "AI Assistant",
+  "sendMessage": "Send",
+  "weeklySchedule": "Weekly Schedule",
+  "mealPlan": "Meal Plan",
+  "progressTracker": "Progress Tracker",
+  "noActivity": "No activity scheduled",
+  "error": "Error",
+  "loading": "Loading...",
+  "monday": "Monday",
+  "tuesday": "Tuesday",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday"
+}
